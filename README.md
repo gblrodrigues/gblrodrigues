@@ -7,11 +7,7 @@ Currently, I develop **Android applications** with **Kotlin** and **Jetpack Comp
 
 My main projects are [**OrbVault**](https://github.com/gblrodrigues/OrbVault) and [**OrbitalNexus-android**](https://github.com/gblrodrigues/OrbitalNexus-android)
 
-<a href="https://www.linkedin.com/in/gblrodrigues">
-  <img src="https://img.shields.io/badge/LinkedIn-100%2B-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-## Languages & Technologies
+## Technologies
 | Android | Backend | Tools |
 |----------|----------|----------|
 <img src="https://skillicons.dev/icons?i=kotlin,java" height="40"/> | <img src="https://skillicons.dev/icons?i=kotlin,java,ktor,spring" height="40"/> | <img src="https://skillicons.dev/icons?i=androidstudio,idea,sqlite,firebase,git,postman,figma" height="40"/> |
@@ -25,3 +21,8 @@ My main projects are [**OrbVault**](https://github.com/gblrodrigues/OrbVault) an
   <img src="https://img.shields.io/badge/Koin-FF6B6B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Retrofit-009688?style=for-the-badge"/>
 </p>
+
+## My Contact
+<a href="https://www.linkedin.com/in/gblrodrigues">
+  <img src="https://img.shields.io/badge/LinkedIn-100%2B-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
