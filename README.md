@@ -5,8 +5,7 @@ I started programming in 2024 out of curiosity about how the systems behind game
 
 Currently, I develop **Android applications** with **Kotlin** and **Jetpack Compose** and build **backend services** using **Kotlin**, **Java**, **Ktor** and **Spring Boot**.
 
-My main projects are [**OrbVault**](https://github.com/gblrodrigues/OrbVault) and [**RadiantHub**](https://github.com/gblrodrigues/RadiantHub)
-> [PrismFX](https://github.com/gblrodrigues/PrismFX) cosmetics system for Minecraft servers.
+My main projects are [**OrbVault**](https://github.com/gblrodrigues/OrbVault) and [**OrbitalNexus-android**](https://github.com/gblrodrigues/OrbitalNexus-android)
 
 <a href="https://www.linkedin.com/in/gblrodrigues">
   <img src="https://img.shields.io/badge/LinkedIn-100%2B-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
